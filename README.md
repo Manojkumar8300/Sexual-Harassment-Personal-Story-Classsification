@@ -13,9 +13,9 @@ The data for multi-label classification is given in four columns, with the first
 ## Example for Multi-Label Classification Dataset:
 Description | Commenting | Ogling | Groping
 ----------|---------------|----------|---------------
-**Was walking along crowded street, holding mums hand, when an elderly man groped butt, I turned to look at h7m and he looked away, and did it again after a while.I was 12 yrs old then. |	0 |	0 |	1
-**This incident took place in the evening.I was in the metro when two guys started staring. | 0 | 1 | 0
-**Catcalls and passing comments were two of the ghastly things the Delhi police at the International Airport put me and my friend through. It is appalling that the protectors and law enforcers at the airport can make someone so uncomfortable. | 1 | 1 | 0
+Was walking along crowded street, holding mums hand, when an elderly man groped butt, I turned to look at h7m and he looked away, and did it again after a while.I was 12 yrs old then. |	0 |	0 |	1
+This incident took place in the evening.I was in the metro when two guys started staring. | 0 | 1 | 0
+Catcalls and passing comments were two of the ghastly things the Delhi police at the International Airport put me and my friend through. It is appalling that the protectors and law enforcers at the airport can make someone so uncomfortable. | 1 | 1 | 0
 
 
 
