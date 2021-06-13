@@ -39,4 +39,4 @@ There is not much requirement for faster results similar to Search Engine(Eg:Goo
 
 
 
-To create Webapp just run the comman streamlit run selfcasestudy_streamlit.py in your Command Prompt
+To create Webapp just run the command streamlit run selfcasestudy_streamlit.py in your Command Prompt
